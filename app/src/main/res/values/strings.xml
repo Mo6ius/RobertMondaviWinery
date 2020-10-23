@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Robert Mondavi Winery</string>
+    <string name="business">Robert Mondavi Winery</string>
+    <string name="statement">Magnificent experiences from the last best place&#8230;</string>
+    <string name='address'>7801 St. Helena Hwy, Oakville, CA 94562</string>
+    <string name="phone">(888) 766&#8211;6328</string>
+    <string name="hours">10 am - 5 pm (except holidays)</string>
+    <string name="experience">Tours, Tastings &amp; Culinary Experiences</string>
+</resources>
